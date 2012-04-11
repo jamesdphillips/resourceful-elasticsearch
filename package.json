@@ -15,7 +15,7 @@
     "node": "~0.4.7"
   },
   "dependencies":{
-    "elastical":"0.0.7",
+    "elastical":"0.0.8",
     "resourceful":"0.1.6"
   },
   "devDependencies": {
